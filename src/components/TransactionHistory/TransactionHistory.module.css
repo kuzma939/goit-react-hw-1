@@ -1,0 +1,14 @@
+.transaction {
+    width: 100%;
+    border: 3px solid rgb(88, 104, 111);
+    font-size: 32px;
+  }
+  .transactionBody {
+    background-color: #e2cbf6;
+  }
+  .transactionBody  tr:nth-child(even) {
+    background-color: rgb(221, 223, 224);
+  }
+  .transactionHead {
+    background-color: rgb(164, 4, 173);
+  }

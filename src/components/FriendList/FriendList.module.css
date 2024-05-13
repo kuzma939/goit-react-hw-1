@@ -1,0 +1,15 @@
+.friends {
+  list-style: none;
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+  }
+  
+  .item {
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 30%);
+  }
